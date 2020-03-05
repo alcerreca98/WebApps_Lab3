@@ -145,4 +145,18 @@ footer {
   body{
     width: 319px;
   }
+
+  header{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  main{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .social{
+    justify-content: space-evenly;
+  }
 }
